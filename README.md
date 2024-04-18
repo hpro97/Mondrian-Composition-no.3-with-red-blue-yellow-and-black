@@ -14,7 +14,7 @@ To experience "Mondrian Composition No.3 with Red, Blue, Yellow, and Black", sim
 ## Installation
 There's no installation required for this project as it's accessible directly through a web browser. Simply navigate to the project's website and start exploring the digital rendition of Mondrian's masterpiece.
 
-[https://hpro97.github.io/Mondrian-Composition-no.3-with-red-blue.-yellow-and-black/](https://hpro97.github.io/Mondrian-Composition-no.3-with-red-blue-yellow-and-black/)
+[https://hpro97.github.io/Mondrian-Composition-no.3-with-red-blue-yellow-and-black/](https://hpro97.github.io/Mondrian-Composition-no.3-with-red-blue-yellow-and-black/)
 
 
 ## Contributing
